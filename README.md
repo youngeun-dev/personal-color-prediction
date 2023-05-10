@@ -38,6 +38,7 @@ image classification을 이용한 퍼스널 컬러 예측 모델
 <br>
 
 <img width="842" alt="image" src="https://github.com/zer0silver/PersonalColor-Prediction/assets/78026977/c7bee1c5-996c-4a0e-9896-1d6448fc52cc">
+
 test data로 예측한 결과입니다.
 
 
